@@ -1,5 +1,7 @@
 [class^='col']{
+    border: 1px solid black;
     background-color: magenta;
-    border: 1px solid yellow;
     height: 75px;
+    
 }
+
