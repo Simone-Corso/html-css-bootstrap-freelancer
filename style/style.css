@@ -34,6 +34,11 @@ section#location{
     border: 2px solid magenta;
 }
 
+section#copyright{
+    height: 200px;
+    border: 2px solid black;
+}
+
 @media screen and (min-wdth:992px){
     main{
     width: 80%;
