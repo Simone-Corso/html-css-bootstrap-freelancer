@@ -8,6 +8,8 @@ header{
     background-color: #1ABC9C;
 }
 
+
+
 div.header-content{
     border: 2px solid yellow;
     height: 400px;
@@ -15,7 +17,8 @@ div.header-content{
 }
 
 article.portfolio{
-    height: 350px;
+    height: 200px;
+    margin-bottom: 1rem;
     border: 2px solid red;
 
 
@@ -31,4 +34,12 @@ img{
 
 .my_custom-bg{
     background-color: #2C3E50;
+}
+
+@media screen and (min-wdth:992px){
+    main{
+    width: 80%;
+    margin: 0 auto;
+}
+
 }
