@@ -1,8 +1,10 @@
 [class^='col']{
     border: 1px solid black;
-    background-color: magenta;
     height: 75px;
     flex: 0 0 auto;
     
 }
 
+.my_custom-bg{
+    background-color: magenta;
+}
