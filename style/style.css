@@ -24,6 +24,11 @@ article.portfolio{
 
 }
 
+section#about{
+    background-color: #1ABC9C;
+    color: white;
+}
+
 section#contact-me{
     height: 450px;
     border: 2px solid green;
@@ -32,11 +37,15 @@ section#contact-me{
 section#location{
     height: 450px;
     border: 2px solid magenta;
+    background-color: #3A546D;
+    color: white
 }
 
 section#copyright{
     height: 200px;
     border: 2px solid black;
+    background-color: #2C3E50;
+    color: white;
 }
 
 @media screen and (min-wdth:992px){
