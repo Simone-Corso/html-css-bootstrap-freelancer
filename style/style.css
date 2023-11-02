@@ -23,18 +23,12 @@ article.portfolio{
 
 
 }
-.my_wrapper{
-    margin: 0 auto;
-    max-width: 1200px;
+
+section#contact-me{
+    height: 450px;
+    border: 2px solid green;
 }
 
-img{
-    height: 350px;
-}
-
-.my_custom-bg{
-    background-color: #2C3E50;
-}
 
 @media screen and (min-wdth:992px){
     main{
