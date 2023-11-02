@@ -8,6 +8,10 @@
     max-width: 1200px;
 }
 
+img{
+    height: 350px;
+}
+
 .my_custom-bg{
     background-color: #2C3E50;
 }
