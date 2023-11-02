@@ -13,6 +13,13 @@ div.header-content{
     height: 400px;
 
 }
+
+article.portfolio{
+    height: 350px;
+    border: 2px solid red;
+
+
+}
 .my_wrapper{
     margin: 0 auto;
     max-width: 1200px;
