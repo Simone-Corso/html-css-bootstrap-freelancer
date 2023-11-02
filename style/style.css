@@ -1,12 +1,11 @@
 [class^='col']{
-    border: 1px solid black;
-    height: 75px;
     flex: 0 0 auto;
     
 }
 
 .my_wrapper{
     margin: 0 auto;
+    max-width: 1200px;
 }
 
 .my_custom-bg{
