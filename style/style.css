@@ -1,8 +1,18 @@
 [class^='col']{
     flex: 0 0 auto;
     
+    
 }
 
+header{
+    background-color: #1ABC9C;
+}
+
+div.header-content{
+    border: 2px solid yellow;
+    height: 400px;
+
+}
 .my_wrapper{
     margin: 0 auto;
     max-width: 1200px;
