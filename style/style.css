@@ -5,7 +5,9 @@
     
 }
 
-
+.my_wrapper{
+    margin: 0 auto;
+}
 
 .my_custom-bg{
     background-color: #2C3E50;
