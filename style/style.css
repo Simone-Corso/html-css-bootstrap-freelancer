@@ -35,8 +35,16 @@ div.header-content{
     background-color: white;
 }
 
+.my_star-separatorblue{
+    background-color: blue;
+}
+.image-fluid{
+    max-width: 100%;
+    height: auto;
+}
+
+
 article.portfolio{
-    height: 200px;
     margin-bottom: 1rem;
     border: 2px solid red;
 
