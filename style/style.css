@@ -1,6 +1,7 @@
 
 header{
     background-color: #1ABC9C;
+    color: white;
 }
 
 .navbar{
@@ -24,6 +25,14 @@ div.header-content{
     border: 2px solid yellow;
     height: 400px;
 
+}
+
+.my_star-separator i::before{
+    display: inline-block;
+    height: 5px;
+    width: 60px;
+    vertical-align: middle;
+    background-color: white;
 }
 
 article.portfolio{
