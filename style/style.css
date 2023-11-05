@@ -12,6 +12,9 @@ header{
 .navbar-brand{
     color: white;
 }
+.nav-link{
+    color: white;
+}
 
 .navbar-collapse{
     display: flex;
