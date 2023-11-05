@@ -59,11 +59,27 @@ section#about{
     background-color: #1ABC9C;
     color: white;
     height: 400px;
+
 }
 
 section#contact-me{
     height: 500px;
     border: 2px solid green;
+}
+
+.button-download{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+
+.btn{
+    color: white;
+}
+
+.btn-outline-secondary{
+    width: auto;
 }
 
 section#location{
