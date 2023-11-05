@@ -34,6 +34,10 @@ article.portfolio{
 
 }
 
+header img{
+    max-width: 290px;
+}
+
 section#about{
     background-color: #1ABC9C;
     color: white;
